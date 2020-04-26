@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    registry = "192.168.222.114:5000/justme/myweb"
+    registry = "778557655318.dkr.ecr.us-west-1.amazonaws.com/myweb"
     dockerImage = ""
   }
 
